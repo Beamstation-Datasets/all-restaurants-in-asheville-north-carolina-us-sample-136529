@@ -1,6 +1,6 @@
 # All Restaurants in Asheville, North Carolina, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 85 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `136529` |
 | Location | Asheville |
 | Category | Restaurants |
-| Full dataset size | 711 records |
-| Free sample size | 25 records (3.52%) |
-| Last export | 2026-03-31T17:23:29.608411+00:00 |
+| Full dataset size | 850 records |
+| Free sample size | 85 records (10.0%) |
+| Last export | 2026-04-14T18:17:10.866887+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-asheville-north-carolina-us-sample-136529/releases/download/sample-latest/beamstation_136529_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
