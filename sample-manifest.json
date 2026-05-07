@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7bb9bd4a-3cec-4293-b682-fdad744b8650",
+  "export_job_id": "b20bdba7-26e1-4fce-96c6-6b2deae5155f",
   "id_short": 136529,
-  "published_at": "2026-04-29T07:21:10Z",
+  "published_at": "2026-05-07T19:11:46Z",
   "repo_name": "all-restaurants-in-asheville-north-carolina-us-sample-136529",
   "sample_asset_name": "beamstation_136529_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/136529/beamstation_136529_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 85,
-  "sample_sha256": "74c192a6b5137d93eccb5182fdcdd92fdd71a67fab1631459b64c1330b623c3c",
-  "sample_size_bytes": 309110,
-  "total_records": 858
+  "sample_records": 93,
+  "sample_sha256": "35dfc0bd67bcf4941385c74f23cc7668273ab65caaea4a4bfa9771c5349ef376",
+  "sample_size_bytes": 345751,
+  "total_records": 932
 }
